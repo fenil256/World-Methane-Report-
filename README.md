@@ -6,13 +6,13 @@ This project is about world methane gas emmision and factors of it . It can be h
 <h1>Back-Ground</h1>
 <p>These dataset was taken from the kaggle website. It consist of :</p>
 
-*region - Region of the world
-*country - Country of Emission.
-*emissions - Methane Emissions in kt.
-*type - Sector from which emissions occur.
-*Segment- Sub-sector from which emissions occur.
-*reason - The reason for the emission.
-*baseYear - Base year for the tracking of emissions.
+* region - Region of the world
+* country - Country of Emission.
+* emissions - Methane Emissions in kt.
+* type - Sector from which emissions occur.
+* Segment- Sub-sector from which emissions occur.
+* reason - The reason for the emission.
+* baseYear - Base year for the tracking of emissions.
 
 <h1>Links</h1>
 
