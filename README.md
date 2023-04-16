@@ -1,4 +1,11 @@
 # World-Methane-Report-
+
+
+
+https://user-images.githubusercontent.com/91587336/232306557-ca140d73-3c51-4194-8d2f-e4545277f02b.mp4
+
+
+
 <h2>About</h2>
 <p> I have analyzed, clean the data, gather the data from the kaggle website and used google looker for visualization of the data .
 This project is about world methane gas emmision and factors of it . It can be helpful for knowing the emission reasons, segements and sub-segnments from whcich countries can focus on that and try to lower the emissions and low as possible.</p>
