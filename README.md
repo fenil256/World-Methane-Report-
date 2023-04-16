@@ -17,4 +17,4 @@ This project is about world methane gas emmision and factors of it . It can be h
 <h1>Links</h1>
 
 - [**Dataset**](https://www.kaggle.com/datasets/ashishraut64/global-methane-emissions) - It is the datset which was used for the visualization
-- [**Python File**](https://lookerstudio.google.com/s/lPqN2lXjWrY) - Looker Visualization
+- [**Looker Visualization**](https://lookerstudio.google.com/s/lPqN2lXjWrY) - Looker Visualization
